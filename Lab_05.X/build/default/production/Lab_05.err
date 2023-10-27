@@ -1,0 +1,7 @@
+Warning[205] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 4 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 7 : Found directive in column 1. (__CONFIG)
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\LAB_05.X\LAB_05.ASM 66 : Found directive in column 1. (end)
