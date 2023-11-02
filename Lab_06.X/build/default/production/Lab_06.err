@@ -1,0 +1,13 @@
+Warning[205] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 6 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 10 : Found directive in column 1. (__CONFIG)
+Warning[207] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 36 : Found label after column 1. (first)
+Warning[207] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 48 : Found label after column 1. (second)
+Warning[207] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 64 : Found label after column 1. (third)
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 82 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 84 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 85 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 91 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 93 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 94 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 100 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\NSF-WORK\DESKTOP\FALL 2023\EMBEDDED SYSTEM\EMBEDDED_SYSTEMS_PIC-\LAB_06.X\LAB_06.ASM 156 : Found directive in column 1. (end)
